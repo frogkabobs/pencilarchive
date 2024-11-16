@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'The Pencil Archive',
-  tagline: 'Archive of wooden pencil resources',
+  tagline: 'Archive of brand name pencils',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
