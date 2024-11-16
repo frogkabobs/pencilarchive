@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpencilarchive=self.webpackChunkpencilarchive||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/pencilarchive/blog","blogTitle":"Blog","authorsListPath":"/pencilarchive/blog/authors"}')}}]);

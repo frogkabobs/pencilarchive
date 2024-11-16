@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpencilarchive=self.webpackChunkpencilarchive||[]).push([[2961],{7664:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/pencilarchive/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
