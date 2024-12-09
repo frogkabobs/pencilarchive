@@ -1,6 +1,6 @@
 import { signal, computed } from '@preact/signals-react';
 import { Selection } from './types';
-import {catalogs} from 'static/data/catalogs';
+import { catalogs } from '@site/src/data/catalogs';
 
 
 const selection = signal<Selection>({
