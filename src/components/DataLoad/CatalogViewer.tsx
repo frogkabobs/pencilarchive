@@ -1,4 +1,5 @@
 import { signal, computed } from '@preact/signals-react';
+import { useSignals } from "@preact/signals-react/runtime";
 import { Selection } from './types';
 import { catalogs } from '@site/src/data/catalogs';
 
@@ -40,7 +41,7 @@ const iframeLink = computed(() =>
 );
 
 export default function CatalogViewer(): JSX.Element {
-
+  useSignals();
   const handleChange = (key: keyof Selection, value: string): void => {
     selection.value = { ...selection.value, [key]: value };
 
