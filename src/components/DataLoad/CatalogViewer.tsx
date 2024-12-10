@@ -46,87 +46,72 @@ export default function CatalogViewer(): JSX.Element {
     selection.value = { ...selection.value, [key]: value };
 
     // Reset dependent selections
-    if (key === 'type') {
-      selection.value.company = '';
-      selection.value.year = '';
-      selection.value.page = '';
-    } else if (key === 'company') {
-      selection.value.year = '';
-      selection.value.page = '';
-    } else if (key === 'year') {
-      selection.value.page = '';
+    switch (key) {
+      case 'type': 
+        selection.value.company = companyOptions.value.length === 1 ? companyOptions.value[0] : '';
+      case 'company': 
+        selection.value.year = yearOptions.value.length === 1 ? yearOptions.value[0] : '';
+      case 'year': 
+        selection.value.page = pageOptions.value.length === 1 ? pageOptions.value[0] : '';
     }
   };
 
   return (
     <div>
-      <h1>Catalog Viewer</h1>
       <div>
-        <label>
-          Type:
-          <select
-            value={selection.value.type}
-            onChange={(e) => handleChange('type', e.target.value)}
-          >
-            <option value="">Select Type</option>
-            {typeOptions.value.map((type) => (
-              <option key={type} value={type}>
-                {type}
-              </option>
-            ))}
-          </select>
-        </label>
+        <select
+          value={selection.value.type}
+          onChange={(e) => handleChange('type', e.target.value)}
+        >
+          <option value="">Select Type</option>
+          {typeOptions.value.map((type) => (
+            <option key={type} value={type}>
+              {type}
+            </option>
+          ))}
+        </select>
+    </div>
+      <div>
+        <select
+          value={selection.value.company}
+          onChange={(e) => handleChange('company', e.target.value)}
+          disabled={!selection.value.type}
+        >
+          <option value="">Select Company</option>
+          {companyOptions.value.map((company) => (
+            <option key={company} value={company}>
+              {company}
+            </option>
+          ))}
+        </select>
       </div>
       <div>
-        <label>
-          Company:
-          <select
-            value={selection.value.company}
-            onChange={(e) => handleChange('company', e.target.value)}
-            disabled={!selection.value.type}
-          >
-            <option value="">Select Company</option>
-            {companyOptions.value.map((company) => (
-              <option key={company} value={company}>
-                {company}
-              </option>
-            ))}
-          </select>
-        </label>
+        <select
+          value={selection.value.year}
+          onChange={(e) => handleChange('year', e.target.value)}
+          disabled={!selection.value.company}
+        >
+          <option value="">Select Year</option>
+          {yearOptions.value.map((year) => (
+            <option key={year} value={year}>
+              {year}
+            </option>
+          ))}
+        </select>
       </div>
       <div>
-        <label>
-          Year:
-          <select
-            value={selection.value.year}
-            onChange={(e) => handleChange('year', e.target.value)}
-            disabled={!selection.value.company}
-          >
-            <option value="">Select Year</option>
-            {yearOptions.value.map((year) => (
-              <option key={year} value={year}>
-                {year}
-              </option>
-            ))}
-          </select>
-        </label>
-      </div>
-      <div>
-        <label>
-          Page:
-          <select
-            value={selection.value.page}
-            onChange={(e) => handleChange('page', e.target.value)}
-            disabled={!selection.value.year}
-          >
-            <option value="">Select Page</option>
-            {pageOptions.value.map((page) => (
-              <option key={page} value={page}>
-                {page}
-              </option>
-            ))}
-          </select>
-        </label>
+        <select
+          value={selection.value.page}
+          onChange={(e) => handleChange('page', e.target.value)}
+          disabled={!selection.value.year}
+        >
+          <option value="">Select Page</option>
+          {pageOptions.value.map((page) => (
+            <option key={page} value={page}>
+              {page}
+            </option>
+          ))}
+        </select>
       </div>
       {iframeLink.value && (
         <iframe

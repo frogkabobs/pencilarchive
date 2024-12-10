@@ -1,5 +1,5 @@
 export const catalogs = {
-    "Primary": {
+    "Brand Catalogs": {
         "American Pencil Co.": {
             "1914": {
                 "_": "https://archive.org/embed/AmericanLeadPencilCoCat1914"
@@ -80,7 +80,7 @@ export const catalogs = {
             }
         }
     },
-    "Secondary": {
+    "Supply Store Catalogs": {
         "Albany Hardware & Iron Co.": {
             "1927": {
                 "_": "https://archive.org/embed/JosDixonCrucibleCo1927"
@@ -174,7 +174,7 @@ export const catalogs = {
                 "138-141": "https://archive.org/embed/illustratedprice00fweb/page/138"
             }
         },
-        "F.W. Devoe & C.T. Raynolds Company": {
+        "F.W. Devoe & C.T. Raynolds Co.": {
             "1914": {
                 "118-123": "https://archive.org/embed/pricedcatalogueo00devo/page/n161"
             },
@@ -239,17 +239,17 @@ export const catalogs = {
                 "3—(65-66)": "https://archive.org/embed/ShapleighKeenKutterCatalog1959Vol1/page/n375"
             }
         },
-        "A. Lietz Company": {
+        "A. Lietz Co.": {
             "1911": {
                 "285-287": "https://archive.org/embed/alietzcomodernsurveyinginstruments/page/n293"
             }
         },
-        "Dunham, Carrigan & Co.": {
+        "Dunham Carrigan & Co.": {
             "1888": {
                 "358": "https://archive.org/embed/DunhamCarriganCatalogueOfHardware1888/page/n393"
             }
         },
-        "Huntington, Hopkins & Co.": {
+        "Huntington Hopkins & Co.": {
             "1884": {
                 "194": "https://archive.org/embed/HuntingtonHopkinsCatalogOfHardware1884/page/n211"
             }
@@ -274,12 +274,12 @@ export const catalogs = {
                 "1294-1297": "https://archive.org/embed/WmFrankfurthCoHardwareCatalogNo5/page/n1245"
             }
         },
-        "Wyeth Hardware & Manufacturing Co.": {
+        "Wyeth Hardware & Mfg. Co.": {
             "1914": {
                 "1012-1016": "https://archive.org/embed/WyethHardwareAndMfgCoCatNo1041914/page/n1067"
             }
         },
-        "Caverhill, Learmont & Co.": {
+        "Caverhill Learmont & Co.": {
             "1901": {
                 "745-746": "https://archive.org/embed/CaverhillLearmontAndCoHardwareCatalogue1901/page/n777"
             }
@@ -289,7 +289,7 @@ export const catalogs = {
                 "331": "https://archive.org/embed/JosephWoodwell80thAnnivCatalog/page/n371"
             }
         },
-        "Hibbard, Spencer, Bartlett & Co.": {
+        "Hibbard Spencer Bartlett & Co.": {
             "1916": {
                 "1201-1204": "https://archive.org/embed/HibbardSpencerBartlettCatNo611916/page/n1013"
             },
@@ -320,7 +320,7 @@ export const catalogs = {
                 "324-325": "https://archive.org/embed/BurnetCoSuppliesCatalogueNo11900/page/n329"
             }
         },
-        "White, Van Glahn & Co.": {
+        "White Van Glahn & Co.": {
             "1902": {
                 "110": "https://archive.org/embed/WhiteVanGlahnHardwareAndToolsIllustratedCatalogue1902/page/n135"
             }
@@ -335,7 +335,7 @@ export const catalogs = {
                 "181-185": "https://archive.org/embed/BiddleHardwareCoCatalog1910/page/n231"
             }
         },
-        "Wadsworth, Howland & Co.": {
+        "Wadsworth Howland & Co.": {
             "1885": {
                 "68-74": "https://archive.org/embed/illustratedcatal00wads/page/68"
             },
@@ -365,9 +365,9 @@ export const catalogs = {
                 "33-38": "https://archive.org/embed/CameronAmberg1918Catalog/page/n25"
             }
         },
-        "Collier Stationery Company": {
+        "Collier Stationery Co.": {
             "1909": {
-                "11-13": "https://archive.org/embed/CollierStationeryCompanyKeokukCirca1909/page/n9"
+                "11-13": "https://archive.org/embed/CollierStationeryCo.KeokukCirca1909/page/n9"
             }
         },
         "W.J. Gage & Co. Ltd.": {
@@ -476,7 +476,7 @@ export const catalogs = {
 
             }
         },
-        "Joplin Printing Company": {
+        "Joplin Printing Co.": {
             "1926": {
                 "128-130": "https://archive.org/embed/joplin-printing-office-supplies-1926/page/128"
             }
@@ -497,7 +497,7 @@ export const catalogs = {
                 "243-251": "https://archive.org/embed/FeldheimGotthelf4598/page/242"
             }
         },
-        "Morrisson, Plummer & Co.": {
+        "Morrisson Plummer & Co.": {
             "1896": {
                 "970-974": "https://archive.org/embed/druggistsreadyre00morr_0/page/969"
             },
@@ -510,7 +510,7 @@ export const catalogs = {
                 "238-252": "https://archive.org/embed/completecatalogp00tech/page/238"
             }
         },
-        "Alteneder, Theodore & Sons": {
+        "Alteneder Theodore & Sons": {
             "1892": {
                 "64-65": "https://archive.org/embed/cataloguepriceli00alte/page/64"
             }
@@ -520,12 +520,12 @@ export const catalogs = {
                 "62-63": "https://archive.org/embed/pricedillustrate00jame/page/62"
             }
         },
-        "E. G. Soltmann": {
+        "E.G. Soltmann": {
             "1886": {
                 "169-183": "https://archive.org/embed/pricelistofdrawi01solt/page/168"
             }
         },
-        "C. F. Pease Company": {
+        "C.F. Pease Co.": {
             "1918": {
                 "199-201": "https://archive.org/embed/EverythingForBluePrinting/page/n209"
             },
@@ -533,7 +533,7 @@ export const catalogs = {
                 "278-283": "https://archive.org/embed/EverythingForBluePrintingEverythingForTheDraftingRoom/page/n287?"
             }
         },
-        "F. W. McAllister": {
+        "F.W. McAllister": {
             "1890": {
                 "78": "https://archive.org/embed/catalogueofmathe00mcal/page/78"
             }
@@ -543,7 +543,7 @@ export const catalogs = {
                 "165-167": "https://archive.org/embed/cataloguepriceli00mack/page/n173"
             }
         },
-        "B. K. Elliot Co.": {
+        "B.K. Elliot Co.": {
             "1925": {
                 "203-211": "https://archive.org/embed/CatalogueAndPriceListOfB.k.ElliottCo.ManufacturersAndImportersOf/page/n213"
             },
@@ -566,7 +566,7 @@ export const catalogs = {
                 "127-129": "https://archive.org/embed/cataloguepriceli00artm/page/126"
             }
         },
-        "Spencer, Turner and Boldero, Ltd.": {
+        "Spencer Turner and Boldero Ltd.": {
             "1898": {
                 "211": "https://archive.org/embed/pricelistdiaryfo00spen/page/210"
             }
@@ -577,7 +577,7 @@ export const catalogs = {
             }
         }
     },
-    "Tertiary": {
+    "Books": {
         "Victorian Pencils: Tools to Jewels": "https://archive.org/embed/victorianpencils0000cros"
     }
 } as const;
