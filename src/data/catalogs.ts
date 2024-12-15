@@ -21,7 +21,15 @@ export const catalogs = {
                 "_": "https://archive.org/embed/A.W.FaberCCA102160"
             }
         },
+        "Arrow Pencil Co.": {
+            "1868": {
+                "_": "https://archive.org/embed/arrow-pencil-co-1868"
+            }
+        },
         "American Pencil Co.": {
+            "1867": {
+                "_": "https://archive.org/embed/american-pencil-co-price-list-1867"
+            },
             "1914": {
                 "_": "https://archive.org/embed/AmericanLeadPencilCoCat1914"
             }
@@ -29,9 +37,15 @@ export const catalogs = {
         "Eagle Pencil Co.": {
             "1900": {
                 "_": "https://archive.org/embed/eagle-pencils-1900"
+            },
+            "1901": {
+                "_": "https://archive.org/embed/eagle-1901"
             }
         },
         "Eberhard Faber": {
+            "1923": {
+                "_": "https://archive.org/embed/eberhard-faber-1923"
+            },
             "1930": {
                 "_": "https://archive.org/embed/EberhardFaberPocketCatalog1930"
             },
@@ -42,6 +56,11 @@ export const catalogs = {
         "J.S. Staedtler": {
             "1930?": {
                 "_": "https://archive.org/embed/JSStaedtlerMarsPencilWorks"
+            }
+        },
+        "J.W. Guttknecht": {
+            "1867": {
+                "_": "https://archive.org/embed/price-list-of-j.-w.-guttknecht-s-lead-pencils-imported-only-by-a.-schmidt-co"
             }
         },
         "Johann Faber": {
@@ -74,6 +93,11 @@ export const catalogs = {
                 "Vol 26": "https://archive.org/embed/graphite-vol-26",
                 "Vol 5-6": "https://archive.org/embed/GraphiteVol56",
                 "Vol 7-9": "https://archive.org/embed/GraphiteVol79"
+            }
+        },
+        "Joseph Gillott & Sons Ltd.": {
+            "1939": {
+                "48-50": "https://archive.org/embed/copy-of-joseph-gillott-excerpt"
             }
         },
         "L&C Hardtmuth": {
@@ -384,6 +408,11 @@ export const catalogs = {
                 "331": "https://archive.org/embed/JosephWoodwell80thAnnivCatalog/page/n372"
             }
         },
+        "K. Itōya": {
+            "1912": {
+                "74-76": "https://archive.org/embed/ito-ya-1912-catalog-excerpt"
+            }
+        },
         "Keuffel & Esser Co.": {
             "1890": {
                 "194-195": "https://archive.org/embed/KeuffelAndEsserCatalogue211890/page/n207"
@@ -407,6 +436,16 @@ export const catalogs = {
         "Kolesch & Co.": {
             "1917": {
                 "165-173": "https://archive.org/embed/koleschandcocatalogue11thed1917/page/n162"
+            }
+        },
+        "L.W. Holley & Sons Co.": {
+            "1924": {
+                "15": "https://archive.org/embed/holley-1924"
+            }
+        },
+        "Lipman Mfg. Co.": {
+            "1867": {
+                "_": "https://archive.org/embed/lipman-manufacturing-company-1867"
             }
         },
         "Logan-Gregg Hardware Co.": {
@@ -482,6 +521,11 @@ export const catalogs = {
                 "67-70": "https://archive.org/embed/catalog00ndav/page/67"
             }
         },
+        "National Stationery and Office Equipment Association": {
+            "1954": {
+                "_": "https://archive.org/embed/national-stationery-office-equipment-association-how-to-sell-pencils-1954"
+            }
+        },
         "Rice Lewis & Son Ltd.": {
             "1898": {
                 "374-377": "https://archive.org/embed/rice-lewis-illus-catalogue-1898/page/374"
@@ -508,6 +552,9 @@ export const catalogs = {
             },
             "1912": {
                 "957-958": "https://archive.org/embed/catalogno12400sear_201907/page/n964"
+            },
+            "1913": {
+                "664": "https://archive.org/embed/sears-roebuck-1913-excerpt"
             },
             "1918": {
                 "886": "https://archive.org/embed/catalog1918sear_201901/page/n909",
@@ -538,6 +585,14 @@ export const catalogs = {
                 "211": "https://archive.org/embed/pricelistdiaryfo00spen/page/211"
             }
         },
+        "Spors Co.": {
+            "1933": {
+                "17": "https://archive.org/embed/spors-1933-excerpt"
+            },
+            "1934": {
+                "24": "https://archive.org/embed/spors-1934-cat-excerpt"
+            }
+        },
         "Technical Supply Co.": {
             "1900": {
                 "238-252": "https://archive.org/embed/completecatalogp00tech/page/238"
@@ -556,6 +611,11 @@ export const catalogs = {
         "W.J. Gage & Co. Ltd.": {
             "1911": {
                 "151-171": "https://archive.org/embed/catalogueofstati00wjgauoft/page/n166"
+            }
+        },
+        "W.M. Hoyt Co.": {
+            "1915": {
+                "74-75": "https://archive.org/embed/hoyt-catalog-excerpt"
             }
         },
         "Wadsworth Howland & Co.": {
@@ -579,6 +639,14 @@ export const catalogs = {
         "Wyeth Hardware & Mfg. Co.": {
             "1914": {
                 "1012-1016": "https://archive.org/embed/WyethHardwareAndMfgCoCatNo1041914/page/n1067"
+            }
+        },
+        "Zaner-Bloser Co.": {
+            "1933": {
+                "49-50": "https://archive.org/embed/zaner-bloser-1933-excerpt"
+            },
+            "1948": {
+                "4,42": "https://archive.org/embed/zaner-bloser-catalog-excerpt"
             }
         }
     }
