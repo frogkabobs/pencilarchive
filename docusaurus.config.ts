@@ -97,7 +97,7 @@ const config: Config = {
           items: [
             {
               label: 'Catalogs',
-              to: '/archive/catalogs',
+              to: '/docs/catalogs',
             },
           ],
         },
