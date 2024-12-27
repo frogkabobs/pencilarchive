@@ -5,7 +5,7 @@ desscription: Websites
 
 # Websites
 
-|| Website | Country | Notes | Selected Pages |
+| Website | Country | Notes | Selected Pages |
 | --- | --- | --- | --- |
 | [Brand Name Pencils](https://brandnamepencils.com/) | US | One of the most comprehensive pencil websites with 7000+ individual pencils | |
 | [Fred's Pencils](https://fredspencils.wordpress.com/) | US | Abandoned, but still very valuable | |
