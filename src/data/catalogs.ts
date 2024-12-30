@@ -77,22 +77,6 @@ export const catalogs = {
             },
             "1912": {
                 "_": "https://archive.org/embed/dixon-1912"
-            },
-            "Graphite 1899-1924": {
-                "Vol 1-4": "https://archive.org/embed/GraphiteVol14",
-                "Vol 10-12": "https://archive.org/embed/GraphiteVol1012",
-                "Vol 13-14": "https://archive.org/embed/GraphiteVol1314",
-                "Vol 15-16": "https://archive.org/embed/GraphiteVol1516",
-                "Vol 17-18": "https://archive.org/embed/GraphiteVol1718",
-                "Vol 19-20": "https://archive.org/embed/GraphiteVol1920",
-                "Vol 21": "https://archive.org/embed/GraphiteVol21",
-                "Vol 22": "https://archive.org/embed/GraphiteVol22",
-                "Vol 23": "https://archive.org/embed/GraphiteVol23",
-                "Vol 24": "https://archive.org/embed/GraphiteVol24",
-                "Vol 25": "https://archive.org/embed/GraphiteVol25",
-                "Vol 26": "https://archive.org/embed/graphite-vol-26",
-                "Vol 5-6": "https://archive.org/embed/GraphiteVol56",
-                "Vol 7-9": "https://archive.org/embed/GraphiteVol79"
             }
         },
         "Joseph Gillott & Sons Ltd.": {
@@ -105,9 +89,60 @@ export const catalogs = {
                 "_": "https://archive.org/embed/kohinoor-pencils-1960"
             }
         },
+        "National Pencil Co. (Atlanta, GA)": {
+            "ca. 1910": {
+                "_": "https://archive.org/details/montag-brothers-inc."
+            }
+        },
         "Prang": {
             "1911": {
                 "57": "https://archive.org/embed/artcataloguecata00pran/page/n64"
+            }
+        }
+    },
+    "Periodicals": {
+        "Graphite (1899-1924)": {
+            "Vol 1-4": {
+                "_": "https://archive.org/embed/GraphiteVol14",
+            },
+            "Vol 10-12": {
+                "_": "https://archive.org/embed/GraphiteVol1012",
+            },
+            "Vol 13-14": {
+                "_": "https://archive.org/embed/GraphiteVol1314",
+            },
+            "Vol 15-16": {
+                "_": "https://archive.org/embed/GraphiteVol1516",
+            },
+            "Vol 17-18": {
+                "_": "https://archive.org/embed/GraphiteVol1718",
+            },
+            "Vol 19-20": {
+                "_": "https://archive.org/embed/GraphiteVol1920",
+            },
+            "Vol 21": {
+                "_": "https://archive.org/embed/GraphiteVol21",
+            },
+            "Vol 22": {
+                "_": "https://archive.org/embed/GraphiteVol22",
+            },
+            "Vol 23": {
+                "_": "https://archive.org/embed/GraphiteVol23",
+            },
+            "Vol 24": {
+                "_": "https://archive.org/embed/GraphiteVol24",
+            },
+            "Vol 25": {
+                "_": "https://archive.org/embed/GraphiteVol25",
+            },
+            "Vol 26": {
+                "_": "https://archive.org/embed/graphite-vol-26",
+            },
+            "Vol 5-6": {
+                "_": "https://archive.org/embed/GraphiteVol56",
+            },
+            "Vol 7-9": {
+                "_": "https://archive.org/embed/GraphiteVol79"
             }
         }
     },
@@ -340,11 +375,17 @@ export const catalogs = {
             "1891": {
                 "550-551": "https://archive.org/embed/HibbardSpencerBartlett1891GeneralCatalogue/page/n601"
             },
+            "1899": {
+                "586-590": "https://archive.org/embed/hibbard-spencer-bartlett-1899"
+            },
             "1910": {
                 "1202-1207": "https://archive.org/embed/HibbardSpencerBartlettCat1910/page/n869"
             },
             "1916": {
                 "1201-1204": "https://archive.org/embed/HibbardSpencerBartlettCatNo611916/page/n1013"
+            },
+            "1922": {
+                "2433-2434": "https://archive.org/embed/hibbard-spencer-bartlett-1922"
             }
         },
         "Hirshberg Art Co.": {
@@ -461,6 +502,16 @@ export const catalogs = {
         "Mackery Paper Print Co.": {
             "1897": {
                 "165-167": "https://archive.org/embed/cataloguepriceli00mack/page/n173"
+            }
+        },
+        "Marshall Field & Co.": {
+            "1894": {
+                "319-321": "https://archive.org/embed/marshall-field-co.-1894"
+            }
+        },
+        "Minneapolis School Supply Co.": {
+            "1927": {
+                "58": "https://archive.org/embed/minneapolis-school-supply-co.-1927"
             }
         },
         "Montgomery Ward & Co.": {
@@ -634,6 +685,11 @@ export const catalogs = {
         "William Frankfurth Co.": {
             "1917": {
                 "1294-1297": "https://archive.org/embed/WmFrankfurthCoHardwareCatalogNo5/page/n1245"
+            }
+        },
+        "Witte Hardware Co.": {
+            "1902": {
+                "639-644": "https://archive.org/embed/witte-hardware-co.-1902"
             }
         },
         "Wyeth Hardware & Mfg. Co.": {
