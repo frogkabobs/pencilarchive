@@ -75,8 +75,8 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://drive.google.com/drive/folders/1NSq3JLcyBEyMI4W908O_CkmPOu1Nrh6X?usp=drive_link',
+          label: 'Google Drive',
           position: 'right',
         },
       ],
@@ -112,7 +112,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © 2024-${new Date().getFullYear()} Pencil Archive, Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

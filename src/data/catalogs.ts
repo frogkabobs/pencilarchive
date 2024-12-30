@@ -91,7 +91,7 @@ export const catalogs = {
         },
         "National Pencil Co. (Atlanta, GA)": {
             "ca. 1910": {
-                "_": "https://archive.org/details/montag-brothers-inc."
+                "_": "https://archive.org/embed/montag-brothers-inc."
             }
         },
         "Prang": {
