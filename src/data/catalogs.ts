@@ -186,6 +186,12 @@ export const catalogs = {
                 "106-109": "https://archive.org/embed/SchoolSuppliesAndEquipment/page/n107"
             }
         },
+        "Anthony Horner & Sons": {
+            "1914": {
+                "240-242": "https://archive.org/embed/Hordern15027/page/240",
+                "249": "https://archive.org/embed/Hordern15027/page/249"
+            }
+        },
         "Art Metropole Ltd.": {
             "1906": {
                 "127-129": "https://archive.org/embed/cataloguepriceli00artm/page/127"
@@ -197,6 +203,11 @@ export const catalogs = {
             },
             "1948": {
                 "225-245": "https://archive.org/embed/CatalogueAndPriceListOfB.k.ElliottCo.ManufacturersAndImportersOf_410/page/n238"
+            }
+        },
+        "Bert L. Daily Inc.": {
+            "1954": {
+                "100-104": "https://archive.org/embed/sign-writers-and-artists-pdfa_202101/page/100"
             }
         },
         "Biddle Hardware Co.": {
@@ -247,6 +258,16 @@ export const catalogs = {
                 "775": "https://archive.org/embed/CharlesAStrelingerWoodWorkersTools1897/page/n180"
             }
         },
+        "Charles Bruning Co.": {
+            "1930": {
+                "185-193": "https://archive.org/embed/generalcatalog00char/page/185"
+            }
+        },
+        "Chas. J. Smith & Co.": {
+            "1938": {
+                "92": "https://archive.org/embed/chas.-j.-smith-co.-wholesale-hardware-pdf-a/page/92"
+            }
+        },
         "Collier Stationery Co.": {
             "1909": {
                 "11-13": "https://archive.org/embed/CollierStationeryCompanyKeokukCirca1909/page/n10"
@@ -279,6 +300,11 @@ export const catalogs = {
                 "649-669": "https://archive.org/embed/DesMoinesDrugCoCatalogue19061907/page/649"
             }
         },
+        "Drake Hardware Co.": {
+            "1936": {
+                "27": "https://archive.org/embed/DrakeHardwareCoGeneralCatalogNo36/page/n66"
+            }
+        },
         "Dunham Carrigan & Co.": {
             "1888": {
                 "358": "https://archive.org/embed/DunhamCarriganCatalogueOfHardware1888/page/n393"
@@ -304,6 +330,11 @@ export const catalogs = {
             },
             "1938": {
                 "40-41": "https://archive.org/embed/DietzgenCatalog38A/page/n41"
+            }
+        },
+        "F. Lassetter & Co. Ltd.": {
+            "1912": {
+                "240-245": "https://archive.org/embed/Lassetters32650/page/240"
             }
         },
         "F. Weber & Co.": {
@@ -361,6 +392,11 @@ export const catalogs = {
         "H.S. Crocker Co.": {
             "1904": {
                 "235-240": "https://archive.org/embed/1904cataloguepri00croc/page/235"
+            }
+        },
+        "Hammacher Schlemmer & Co.": {
+            "1901": {
+                "77-78": "https://archive.org/embed/HammacherSchlemmerToolsAndBenchesCatalogueNo87/page/n90"
             }
         },
         "Henry Bainbridge & Co.": {
@@ -437,6 +473,11 @@ export const catalogs = {
         "John C. Post's Sons": {
             "1901": {
                 "37-38": "https://archive.org/embed/catalogueofpaint00john/page/37"
+            }
+        },
+        "John Pritzlaff Hardware Co.": {
+            "1915": {
+                "1563-1567": "https://archive.org/embed/pritzlaff-hardware-1915-1870/page/1365"
             }
         },
         "Joplin Printing Co.": {
@@ -582,9 +623,19 @@ export const catalogs = {
                 "374-377": "https://archive.org/embed/rice-lewis-illus-catalogue-1898/page/374"
             }
         },
+        "Richard Melhuish Ltd.": {
+            "1912": {
+                "179": "https://archive.org/embed/MelhuishNo21CatalogueOfWoodWorkersTools/page/179"
+            }
+        },
         "Risley & Kerrigan": {
             "1886": {
                 "563-564": "https://archive.org/embed/RisleyAndKerriganIllusCatalogueOfHardware1886/page/n588"
+            }
+        },
+        "Russell & Erwin Mfg. Co.": {
+            "1899": {
+                "875-878": "https://archive.org/embed/RussellErwinManufacturingCompanyCCA21775/page/n1030"
             }
         },
         "Sears Roebuck & Co.": {
@@ -644,6 +695,17 @@ export const catalogs = {
                 "24": "https://archive.org/embed/spors-1934-cat-excerpt"
             }
         },
+        "Starke-Seybold Ltd.": {
+            "1923": {
+                "143": "https://archive.org/embed/CatalogueOfGeneralHardwareAndAccessories/page/n152"
+            }
+        },
+        "T. Eaton Co. Ltd.": {
+            "1916": {
+                "Spring/Summer 211": "https://archive.org/embed/eatons191600eatouoft_201903/page/211",
+                "Fall/Winter 316": "https://archive.org/embed/eatons191600eatouoft_201903/page/n679"
+            }
+        },
         "Technical Supply Co.": {
             "1900": {
                 "238-252": "https://archive.org/embed/completecatalogp00tech/page/238"
@@ -657,6 +719,11 @@ export const catalogs = {
         "Union School Furnishing Co.": {
             "1920": {
                 "69": "https://archive.org/embed/SchoolFurnitureAndSupplies/page/n72"
+            }
+        },
+        "W.F. Stanley & Co. Ltd.": {
+            "1931": {
+                "340-341": "https://archive.org/embed/wf-stanley-and-co-catalogue-1931/page/340"
             }
         },
         "W.J. Gage & Co. Ltd.": {
