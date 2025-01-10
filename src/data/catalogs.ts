@@ -144,16 +144,27 @@ export const catalogs = {
             "Vol 7-9": {
                 "_": "https://archive.org/embed/GraphiteVol79"
             }
+        },
+        "The Gimlet": {
+            "Vol 4": {
+                "326": "https://archive.org/details/gimlet-vol-iv/page/326"
+            },
+            "Vol 5": {
+                "130": "https://archive.org/details/gimlet-vol-v/Gimlet%20Vol%20V%20No%203%20Apr%201912/page/130"
+            }
         }
     },
     "Supply Store Catalogs": {
         "A. Lietz Co.": {
             "1911": {
                 "285-287": "https://archive.org/embed/alietzcomodernsurveyinginstruments/page/n294"
+            },
+            "1939": {
+                "389-401": "https://archive.org/embed/ManufacturersOfEngineeringSurveyingMiningAndNauticalInstruments/page/n394"
             }
         },
         "A. Sartorius & Co.": {
-            "1894,1897": {
+            "1894/1897": {
                 "117-118": "https://archive.org/embed/illustratedcatal1894asar/page/117"
             }
         },
@@ -186,7 +197,7 @@ export const catalogs = {
                 "106-109": "https://archive.org/embed/SchoolSuppliesAndEquipment/page/n107"
             }
         },
-        "Anthony Horner & Sons": {
+        "Anthony Hordern & Sons": {
             "1914": {
                 "240-242": "https://archive.org/embed/Hordern15027/page/240",
                 "249": "https://archive.org/embed/Hordern15027/page/249"
@@ -241,6 +252,9 @@ export const catalogs = {
         "Cameron Amberg & Co.": {
             "1918": {
                 "33-38": "https://archive.org/embed/CameronAmberg1918Catalog/page/n25"
+            },
+            "1928": {
+                "84-87": "https://archive.org/embed/cameron-amberg-office-supplies-1928/page/84"
             }
         },
         "Carson Pirie Scott & Co.": {
@@ -254,8 +268,9 @@ export const catalogs = {
             }
         },
         "Charles A. Strelinger & Co.": {
-            "1897": {
-                "775": "https://archive.org/embed/CharlesAStrelingerWoodWorkersTools1897/page/n180"
+            "1895/1897": {
+                "775": "https://archive.org/details/CharlesAStrelingerWoodWorkersTools1897/page/n180",
+                "780": "https://archive.org/details/CharlesAStrelingerWoodWorkersTools1897/page/n185"
             }
         },
         "Charles Bruning Co.": {
@@ -263,7 +278,7 @@ export const catalogs = {
                 "185-193": "https://archive.org/embed/generalcatalog00char/page/185"
             }
         },
-        "Chas. J. Smith & Co.": {
+        "Charles J. Smith & Co.": {
             "1938": {
                 "92": "https://archive.org/embed/chas.-j.-smith-co.-wholesale-hardware-pdf-a/page/92"
             }
@@ -311,8 +326,13 @@ export const catalogs = {
             }
         },
         "E.G. Soltmann": {
-            "1886": {
+            "1885/1886/1887": {
                 "169-183": "https://archive.org/embed/pricelistofdrawi01solt/page/169"
+            }
+        },
+        "E.R. Watts & Son": {
+            "1910": {
+                "138": "https://archive.org/details/E.R.WATTS1910AllPages/page/n69"
             }
         },
         "Eugene Dietzgen Co.": {
@@ -372,8 +392,15 @@ export const catalogs = {
             "1877": {
                 "34-35": "https://archive.org/embed/pricedillustrate00fros/page/34"
             },
+            "1886": {
+                "66-68": "https://archive.org/details/descriptivecatal00fros_0/page/66"
+            },
             "1898": {
                 "66-71": "https://archive.org/embed/descriptivecatal00fros/page/n100"
+            },
+            "1914": {
+                "195-239": "https://archive.org/embed/DescriptiveCatalogue1914FrostAdamsCo.ImportersAndDealersIn/page/n196",
+                "275": "https://archive.org/embed/DescriptiveCatalogue1914FrostAdamsCo.ImportersAndDealersIn/page/n276"
             }
         },
         "Fuller & Fuller Co.": {
@@ -397,6 +424,9 @@ export const catalogs = {
         "Hammacher Schlemmer & Co.": {
             "1901": {
                 "77-78": "https://archive.org/embed/HammacherSchlemmerToolsAndBenchesCatalogueNo87/page/n90"
+            },
+            "1914": {
+                "327": "https://archive.org/embed/hammacher-schlemmer-and-co-1914/page/327"
             }
         },
         "Henry Bainbridge & Co.": {
@@ -414,8 +444,14 @@ export const catalogs = {
             "1899": {
                 "586-590": "https://archive.org/embed/hibbard-spencer-bartlett-1899"
             },
+            "1901": {
+                "587": "https://archive.org/details/HibbardSpencerBartlettBuyersWantBook1901/page/n158"
+            },
             "1910": {
                 "1202-1207": "https://archive.org/embed/HibbardSpencerBartlettCat1910/page/n869"
+            },
+            "1915": {
+                "1201-1204": "https://archive.org/details/HibbardSpencerBartlettCatNo601915/page/n1001"
             },
             "1916": {
                 "1201-1204": "https://archive.org/embed/HibbardSpencerBartlettCatNo611916/page/n1013"
@@ -432,7 +468,7 @@ export const catalogs = {
         },
         "Hobbs Hardware Co.": {
             "1890": {
-                "708-709": "https://archive.org/embed/HobbsHardwareCo1890Vol2/page/n139"
+                "705-709": "https://archive.org/details/cihm_93238/page/n142"
             }
         },
         "Hoover Brothers": {
@@ -451,8 +487,20 @@ export const catalogs = {
             }
         },
         "James W. Queen & Co.": {
+            "1871": {
+                "61": "https://archive.org/details/PricedAndIllustratedCatalogueOfMathematicalInstrumentsAndMaterialsForpage/n60"
+            },
             "1873": {
                 "62-63": "https://archive.org/embed/pricedillustrate00jame/page/62"
+            },
+            "1877": {
+                "74-75": "https://archive.org/details/PricedAndIllustratedCatalogueOfMathematicalInstrumentsAndMaterialsFor_989/page/n75"
+            },
+            "1880": {
+                "130A-132": "https://archive.org/details/CatalogueMathematicalAndEngineeringInstrumentsAndMaterialsManufactured/page/n130"
+            },
+            "1883": {
+                "104-105": "https://archive.org/details/QueenAndCoCatalogueOfMathematicalInstruments1883/page/n107"
             }
         },
         "Janentzky & Co.": {
@@ -461,6 +509,10 @@ export const catalogs = {
                 "85-87": "https://archive.org/embed/pricelistofartis00jane/page/85"
             },
             "1884": {
+                "113-114": "https://archive.org/details/illustratedprice00jane/page/113",
+                "132-135": "https://archive.org/details/illustratedprice00jane/page/132"
+            },
+            "1886": {
                 "101-102": "https://archive.org/embed/illustratedtrade00jane/page/101",
                 "122-125": "https://archive.org/embed/illustratedtrade00jane/page/122"
             }
@@ -488,6 +540,9 @@ export const catalogs = {
         "Joseph Woodwell Co.": {
             "1927": {
                 "331": "https://archive.org/embed/JosephWoodwell80thAnnivCatalog/page/n372"
+            },
+            "1937": {
+                "225": "https://archive.org/details/JosephWoodwell90thAnnivCatalog/page/n258"
             }
         },
         "K. Itōya": {
@@ -516,6 +571,9 @@ export const catalogs = {
             }
         },
         "Kolesch & Co.": {
+            "1907": {
+                "140-147": "https://archive.org/details/IllustratedCatalogueAndPrice-listOfDrawingAndTracingPapersSunPrint_791/page/n145"
+            },
             "1917": {
                 "165-173": "https://archive.org/embed/koleschandcocatalogue11thed1917/page/n162"
             }
@@ -523,6 +581,23 @@ export const catalogs = {
         "L.W. Holley & Sons Co.": {
             "1924": {
                 "15": "https://archive.org/embed/holley-1924"
+            }
+        },
+        "Larkin Co.": {
+            "1916 Feb.": {
+                "35": "https://archive.org/details/1916-02-larkin-catalog-buffalo-ny/page/35"
+            },
+            "1925 Feb.": {
+                "61": "https://archive.org/details/1925-02-larkin-catalog-buffalo-ny/page/n37"
+            },
+            "1925 Aug.": {
+                "60-61": "https://archive.org/details/1925-08-larkin-catalog-buffalo-ny/page/60"
+            },
+            "1929 Jan.": {
+                "47": "https://archive.org/details/1929-larkin-co-catalog-buffalo-ny/page/47"
+            },
+            "1932": {
+                "46": "https://archive.org/details/1932-larkin-co-catalog-buffalo-ny/page/n24"
             }
         },
         "Lipman Mfg. Co.": {
@@ -598,6 +673,12 @@ export const catalogs = {
             }
         },
         "Morrisson Plummer & Co.": {
+            "1880": {
+                "289": "https://archive.org/details/druggistsreadyre00morr_2/page/289"
+            },
+            "1887": {
+                "434-436": "https://archive.org/details/druggistsreadyre00morr/page/434"
+            },
             "1896": {
                 "970-974": "https://archive.org/embed/druggistsreadyre00morr_0/page/970"
             },
@@ -618,9 +699,14 @@ export const catalogs = {
                 "_": "https://archive.org/embed/national-stationery-office-equipment-association-how-to-sell-pencils-1954"
             }
         },
+        "Ramsay Standard Catalogue Service": {
+            "1947": {
+                "1/4-1/6": "https://archive.org/details/Ramsay53895/page/n28"
+            }
+        },
         "Rice Lewis & Son Ltd.": {
             "1898": {
-                "374-377": "https://archive.org/embed/rice-lewis-illus-catalogue-1898/page/374"
+                "374-377": "https://archive.org/details/cihm_12436/page/n420"
             }
         },
         "Richard Melhuish Ltd.": {
@@ -630,12 +716,48 @@ export const catalogs = {
         },
         "Risley & Kerrigan": {
             "1886": {
-                "563-564": "https://archive.org/embed/RisleyAndKerriganIllusCatalogueOfHardware1886/page/n588"
+                "563-564": "https://archive.org/details/cihm_91269/page/n610"
             }
         },
         "Russell & Erwin Mfg. Co.": {
             "1899": {
                 "875-878": "https://archive.org/embed/RussellErwinManufacturingCompanyCCA21775/page/n1030"
+            }
+        },
+        "Sargent & Co.": {
+            "1869": {
+                "279": "https://archive.org/details/SargentAndCo1869Catalogue/page/n284"
+            },
+            "1871": {
+                "570": "https://archive.org/details/pricelistillustr00sarg/page/570"
+            },
+            "1874": {
+                "769": "https://archive.org/details/pricelistillustr01sarg/page/769"
+            },
+            "1877": {
+                "810-811": "https://archive.org/details/sargent-catalog-1877/page/810"
+            },
+            "1888": {
+                "1040-1041": "https://archive.org/details/sargent-catalog-1888/page/1040"
+            },
+            "1908": {
+                "1190": "https://archive.org/details/sargent-catalog-1901/page/1190",
+                "1225": "https://archive.org/details/sargent-catalog-1901/page/n1534"
+            },
+            "1910": {
+                "1298": "https://archive.org/details/sargent-catalog-1910/page/1298",
+                "1329": "https://archive.org/details/sargent-catalog-1910/page/1329"
+            },
+            "1911": {
+                "246-247": "https://archive.org/details/SargentToolBook1911Catalog/page/n255"
+            },
+            "1922": {
+                "878": "https://archive.org/details/sargent-catalog-1922/page/878",
+                "1002": "https://archive.org/details/sargent-catalog-1922/page/1002"
+            },
+            "1926": {
+                "634": "https://archive.org/details/sargent-catalog-1926/page/634",
+                "735": "https://archive.org/details/sargent-catalog-1926/page/735"
             }
         },
         "Sears Roebuck & Co.": {
@@ -719,6 +841,11 @@ export const catalogs = {
         "Union School Furnishing Co.": {
             "1920": {
                 "69": "https://archive.org/embed/SchoolFurnitureAndSupplies/page/n72"
+            }
+        },
+        "Vajen & New": {
+            "1884": {
+                "188": "https://archive.org/details/VajenAndNewCatalogueOfHardware1884/page/n217"
             }
         },
         "W.F. Stanley & Co. Ltd.": {
