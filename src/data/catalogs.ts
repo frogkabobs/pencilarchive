@@ -246,7 +246,7 @@ export const catalogs = {
                 "199-201": "https://archive.org/embed/EverythingForBluePrinting/page/n210"
             },
             "1928": {
-                "278-283": "https://archive.org/embed/EverythingForBluePrintingEverythingForTheDraftingRoom/page/n287?"
+                "278-283": "https://archive.org/embed/EverythingForBluePrintingEverythingForTheDraftingRoom/page/n287"
             }
         },
         "Cameron Amberg & Co.": {
@@ -371,7 +371,7 @@ export const catalogs = {
                 "78-79": "https://archive.org/embed/PricedCatalogueOfArtistsMaterials...AndDrawingMaterialsF.w.Devoe/page/n89",
                 "88-91": "https://archive.org/embed/PricedCatalogueOfArtistsMaterials...AndDrawingMaterialsF.w.Devoe/page/n99"
             },
-            "1904?": {
+            "1904": {
                 "93-106": "https://archive.org/embed/pricedcatalogueo00fwde/page/93"
             },
             "1914": {
