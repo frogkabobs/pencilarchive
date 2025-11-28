@@ -32,6 +32,9 @@ export const catalogs = {
             },
             "1914": {
                 "_": "https://archive.org/embed/AmericanLeadPencilCoCat1914"
+            },
+            "1927": {
+                "_": "https://archive.org/embed/ampeco-1927"
             }
         },
         "Eagle Pencil Co.": {
@@ -51,6 +54,11 @@ export const catalogs = {
             },
             "1940": {
                 "_": "https://archive.org/embed/eberhard-faber-writing-materials-1940"
+            }
+        },
+        "Empire Pencil Co.": {
+            "1940": {
+                "_": "https://archive.org/embed/empire-1940ca"
             }
         },
         "J.S. Staedtler": {
