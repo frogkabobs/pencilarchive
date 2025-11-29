@@ -43,6 +43,9 @@ export const catalogs = {
             },
             "1901": {
                 "_": "https://archive.org/embed/eagle-1901"
+            },
+            "1927": {
+                "_": "https://archive.org/embed/eagle-pencil-price-list"
             }
         },
         "Eberhard Faber": {
@@ -64,6 +67,9 @@ export const catalogs = {
         "J.S. Staedtler": {
             "1930?": {
                 "_": "https://archive.org/embed/JSStaedtlerMarsPencilWorks"
+            },
+            "2024": {
+                "_": "https://archive.org/embed/staedtler-general-catalogue-2024"
             }
         },
         "J.W. Guttknecht": {
@@ -95,6 +101,9 @@ export const catalogs = {
         "L&C Hardtmuth": {
             "1960": {
                 "_": "https://archive.org/embed/kohinoor-pencils-1960"
+            },
+            "1977": {
+                "_": "https://archive.org/embed/kohinoor-drawing-supplies-1977"
             }
         },
         "National Pencil Co. (Atlanta, GA)": {
