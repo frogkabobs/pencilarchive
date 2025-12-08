@@ -118,6 +118,11 @@ export const catalogs = {
             "1911": {
                 "57": "https://archive.org/embed/artcataloguecata00pran/page/n64"
             }
+        },
+        "Weldon Roberts": {
+            "1961": {
+                "12-13": "https://archive.org/embed/weldon-roberts-no-50/page/12"
+            }
         }
     },
     "Periodicals": {
