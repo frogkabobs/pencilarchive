@@ -17,7 +17,7 @@ export const catalogs = {
             "1897": {
                 "_": "https://digitalcollections.lib.uh.edu/pdfjs/web/viewer.html?file=%2Fdownloads%2F8k71nj546%3Fdisposition%3Dinline%26locale%3Den"
             },
-            "1960": {
+            "1940": {
                 "_": "https://archive.org/embed/A.W.FaberCCA102160"
             }
         },
@@ -60,7 +60,7 @@ export const catalogs = {
             }
         },
         "Empire Pencil Co.": {
-            "1940": {
+            "1940?": {
                 "_": "https://archive.org/embed/empire-1940ca"
             }
         },
@@ -85,6 +85,9 @@ export const catalogs = {
         "Joseph Dixon": {
             "1894": {
                 "_": "https://archive.org/embed/DixonTheHistoryOfALeadPencil"
+            },
+            "1896": {
+                "36-54": "https://archive.org/embed/dixon-1896/page/36"
             },
             "1901": {
                 "61-77": "https://archive.org/embed/JosephDixonCrucibleCoGraphiteProductions1901/page/n62"
@@ -225,6 +228,11 @@ export const catalogs = {
                 "127-129": "https://archive.org/embed/cataloguepriceli00artm/page/127"
             }
         },
+        "Baker Pratt & Co.": {
+            "1879": {
+                "142-144": "https://archive.org/embed/illustratedcatal00bake/page/142"
+            }
+        },
         "B.K. Elliot Co.": {
             "1925": {
                 "203-211": "https://archive.org/embed/CatalogueAndPriceListOfB.k.ElliottCo.ManufacturersAndImportersOf/page/n214"
@@ -345,6 +353,11 @@ export const catalogs = {
         "E.G. Soltmann": {
             "1885/1886/1887": {
                 "169-183": "https://archive.org/embed/pricelistofdrawi01solt/page/169"
+            }
+        },
+        "E.N. Moyer Co.": {
+            "1927": {
+                "78": "https://archive.org/embed/N026634/N026634/page/78"
             }
         },
         "E.R. Watts & Son": {
