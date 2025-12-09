@@ -119,9 +119,28 @@ export const catalogs = {
                 "57": "https://archive.org/embed/artcataloguecata00pran/page/n64"
             }
         },
+        "Reeves & Sons": {
+            "1900": {
+                "10": "https://archive.org/embed/selectlistfrommanu00reev/page/10"
+            }
+        },
         "Weldon Roberts": {
             "1961": {
                 "12-13": "https://archive.org/embed/weldon-roberts-no-50/page/12"
+            }
+        },
+        "Winsor & Newton Ltd.": {
+            "1852": {
+                "14-15": "https://archive.org/embed/artoffiguredrawi00weig/page/14"
+            },
+            "1875": {
+                "42-45": "https://archive.org/embed/artofwoodengravi00gilk/page/42"
+            },
+            "1887": {
+                "47-48": "https://archive.org/embed/catalogueofcolou00wins/page/47"
+            },
+            "1900": {
+                "139-147": "https://archive.org/embed/manufacturingart00wins/page/139"
             }
         }
     },
@@ -935,20 +954,6 @@ export const catalogs = {
         "William Frankfurth Co.": {
             "1917": {
                 "1294-1297": "https://archive.org/embed/WmFrankfurthCoHardwareCatalogNo5/page/n1245"
-            }
-        },
-        "Winsor & Newton Ltd.": {
-            "1852": {
-                "14-15": "https://archive.org/embed/artoffiguredrawi00weig/page/14"
-            },
-            "1875": {
-                "42-45": "https://archive.org/embed/artofwoodengravi00gilk/page/42"
-            },
-            "1887": {
-                "47-48": "https://archive.org/embed/catalogueofcolou00wins/page/47"
-            },
-            "1900": {
-                "139-147": "https://archive.org/embed/manufacturingart00wins/page/139"
             }
         },
         "Witte Hardware Co.": {
