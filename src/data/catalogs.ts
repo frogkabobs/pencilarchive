@@ -189,6 +189,11 @@ export const catalogs = {
                 "_": "https://archive.org/embed/GraphiteVol79"
             }
         },
+        "The Coach": {
+            "1914-1922": {
+                "_": "https://archive.org/embed/the-coach-selected-ads-1914-1922"
+            }
+        },
         "The Gimlet": {
             "Vol 4": {
                 "326": "https://archive.org/embed/gimlet-vol-iv/page/326"
@@ -202,6 +207,13 @@ export const catalogs = {
         "A. Lietz Co.": {
             "1911": {
                 "285-287": "https://archive.org/embed/alietzcomodernsurveyinginstruments/page/n294"
+            },
+            "1919": {
+                "508-517": "https://archive.org/embed/alietzsan1919unse/page/508",
+                "530": "https://archive.org/embed/alietzsan1919unse/page/530"
+            },
+            "1926": {
+                "450-459": "https://archive.org/embed/alietzcom1926unse/page/450"
             },
             "1939": {
                 "389-401": "https://archive.org/embed/ManufacturersOfEngineeringSurveyingMiningAndNauticalInstruments/page/n394"
@@ -280,6 +292,11 @@ export const catalogs = {
                 "148-149": "https://archive.org/embed/ToolsOfBusiness/page/n155"
             }
         },
+        "Bremner Brothers": {
+            "1879": {
+                "34": "https://hdl.handle.net/2027/aeu.ark:/13960/t90878p8t?urlappend=%3Bui=embed%3Bseq=40"
+            }
+        },
         "Buhl Sons Co.": {
             "1918": {
                 "420-425": "https://archive.org/embed/BuhlSonsCo1918/page/n471"
@@ -332,6 +349,11 @@ export const catalogs = {
                 "92": "https://archive.org/embed/chas.-j.-smith-co.-wholesale-hardware-pdf-a/page/92"
             }
         },
+        "Charles Roberson & Co.": {
+            "1901": {
+                "86-87": "https://hdl.handle.net/2027/gri.ark:/13960/t2795407j?urlappend=%3Bui=embed%3Bseq=106"
+            }
+        },
         "Collier Stationery Co.": {
             "1909": {
                 "11-13": "https://archive.org/embed/CollierStationeryCompanyKeokukCirca1909/page/n10"
@@ -377,6 +399,11 @@ export const catalogs = {
         "E.G. Soltmann": {
             "1885/1886/1887": {
                 "169-183": "https://archive.org/embed/pricelistofdrawi01solt/page/169"
+            }
+        },
+        "E.N. Hunt": {
+            "1898": {
+                "36": "https://hdl.handle.net/2027/aeu.ark:/13960/t45q5x055?urlappend=%3Bui=embed%3Bseq=44"
             }
         },
         "E.N. Moyer Co.": {
@@ -675,6 +702,11 @@ export const catalogs = {
                 "742-744": "https://archive.org/embed/LoganGreggHardwareCatNo30/page/n793"
             }
         },
+        "Lord Owen & Co.": {
+            "1896": {
+                "454-461": "https://archive.org/embed/101096249.nlm.nih.gov/page/454"
+            }
+        },
         "Louis Sappanos Co.": {
             "1951": {
                 "62": "https://archive.org/embed/OldStandByPaingCatalogNo.51/page/n63"
@@ -688,6 +720,12 @@ export const catalogs = {
         "Mackery Paper Print Co.": {
             "1897": {
                 "165-167": "https://archive.org/embed/cataloguepriceli00mack/page/n173"
+            }
+        },
+        "Macy's": {
+            "1908": {
+                "281": "https://archive.org/embed/catalog00macy/page/281",
+                "298": "https://archive.org/embed/catalog00macy/page/298"
             }
         },
         "Marshall Field & Co.": {
@@ -959,6 +997,16 @@ export const catalogs = {
         "Witte Hardware Co.": {
             "1902": {
                 "639-644": "https://archive.org/embed/witte-hardware-co.-1902"
+            }
+        },
+        "Wm.E. Stieren Co.": {
+            "1903": {
+                "42-48": "https://hdl.handle.net/2027/uiug.30112045198014?urlappend=%3Bui=embed%3Bseq=48"
+            }
+        },
+        "Wm.H. Hoskins Mfg. Stationer": {
+            "1901": {
+                "35-41": "https://hdl.handle.net/2027/uiug.30112000717584?urlappend=%3Bui=embed%3Bseq=47"
             }
         },
         "Wyeth Hardware & Mfg. Co.": {
